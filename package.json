@@ -1,0 +1,15 @@
+{
+  "name": "git.example.start",
+  "version": "0.0.1",
+  "description": "Создан пустой проект",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "c0der2015",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-shell": "^1.3.0"
+  }
+}
